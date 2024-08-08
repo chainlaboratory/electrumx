@@ -1,4 +1,4 @@
 aiorpcX[ws]>=0.23.0,<0.24
 attrs
-plyvel
+leveldb
 aiohttp>=3.3,<4
